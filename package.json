@@ -1,0 +1,33 @@
+{
+  "name": "softwareconstruction",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "softwareconstruction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liunsewa/softwareconstruction"
+  },
+  "website": "https://github.com/liunsewa/softwareconstruction.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "liunsewa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liunsewa/softwareconstruction/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/liunsewa/softwareconstruction#readme",
+  "dependencies": {
+    "musicplaylistmanagement": "1.0.2"
+  }
+}
